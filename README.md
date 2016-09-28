@@ -1,4 +1,4 @@
-## Freelance jobs in Vietnam
+## Freelance jobs board for developers in Vietnam
 A curated list of awesome freelance projects from our [platform](http://pangara.com). We're only working with Vietnam based developers for the time being.
 
 ## Who we are
